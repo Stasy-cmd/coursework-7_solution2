@@ -2,7 +2,7 @@ version: "3.9"
 
 services:
   front:
-    image: sermalenk/skypro-front:lesson-38
+    image: stasy23/front:lesson-38
     ports:
       - 8038:80
     depends_on:
